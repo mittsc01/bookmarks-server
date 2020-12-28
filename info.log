@@ -103,3 +103,7 @@
 {"message":"Unauthorized request to path: /api/bookmarks/26","level":"error"}
 {"message":"Unauthorized request to path: /api/bookmarks/2","level":"error"}
 {"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /api/articles","level":"error"}
+{"message":"Unauthorized request to path: /api/articles","level":"error"}
